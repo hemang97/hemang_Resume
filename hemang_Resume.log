@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  22 APR 2017 23:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.4.22)  22 APR 2017 23:31
 entering extended mode
 **./hemang_Resume.tex
 (hemang_Resume.tex
@@ -131,22 +131,31 @@ File: hemang.png Graphic file (type png)
  <use hemang.png>
 Package pdftex.def Info: hemang.png used on input line 35.
 (pdftex.def)             Requested size: 85.35826pt x 107.52597pt.
- [1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 48.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 48.
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./hemang.png>] (hemang_Re
-sume.aux) ) 
+Overfull \hbox (31.30396pt too wide) in paragraph at lines 48--65
+[][] 
+ []
+
+[1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./hemang.png>]
+(hemang_Resume.aux) ) 
 Here is how much of TeX's memory you used:
- 1471 strings out of 493333
- 20851 string characters out of 3139143
- 78409 words of memory out of 3000000
- 5019 multiletter control sequences out of 15000+200000
+ 1473 strings out of 493333
+ 20879 string characters out of 3139143
+ 82409 words of memory out of 3000000
+ 5021 multiletter control sequences out of 15000+200000
  4553 words of font info for 17 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,6n,25p,310b,250s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on hemang_Resume.pdf (1 page, 366344 bytes).
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on hemang_Resume.pdf (1 page, 374910 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
